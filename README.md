@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/-gauisyaba@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="25" alt="gmail badge" />
   </a>
   </a>
-  <a href="https://codeforces.com/profile/victoire20">
-    <img src="https://img.shields.io/badge/Codeforces-victoire20-orange?style=for-the-badge&logo=codeforces&logoColor=white" height="25" />
+  <a href="https://app.codecrafters.io/users/victoire20">
+    <img src="https://img.shields.io/badge/CodeCrafters-victoire20-purple?style=for-the-badge&logo=appveyor&logoColor=white" height="25" />
   </a>
   <a href="https://www.frontendmentor.io/profile/victoire20">
     <img src="https://img.shields.io/badge/Frontend_Mentor-victoire20-blue?style=for-the-badge&logo=frontendmentor&logoColor=white" height="25" />
