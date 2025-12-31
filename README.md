@@ -39,6 +39,9 @@
   <a href="https://www.frontendmentor.io/profile/victoire20">
     <img src="https://img.shields.io/badge/Frontend_Mentor-victoire20-blue?style=for-the-badge&logo=frontendmentor&logoColor=white" height="25" />
   </a>
+  <a href="https://exercism.org/profiles/victoire20">
+    <img src="https://img.shields.io/badge/Exercism-victoire20-purple?style=for-the-badge&logo=exercism&logoColor=white" height="25" />
+  </a>
 </div>
 
 ###
