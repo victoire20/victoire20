@@ -29,17 +29,16 @@
 ###
 
 <div align="center">
-  <a href="mailto:gauisyaba@gmail.com">
+  <a target="_blank" href="mailto:gauisyaba@gmail.com">
     <img src="https://img.shields.io/badge/-gauisyaba@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="25" alt="gmail badge" />
   </a>
-  </a>
-  <a href="https://app.codecrafters.io/users/victoire20">
+  <a target="_blank" href="https://app.codecrafters.io/users/victoire20">
     <img src="https://img.shields.io/badge/CodeCrafters-victoire20-purple?style=for-the-badge&logo=appveyor&logoColor=white" height="25" />
   </a>
-  <a href="https://www.frontendmentor.io/profile/victoire20">
+  <a target="_blank" href="https://www.frontendmentor.io/profile/victoire20">
     <img src="https://img.shields.io/badge/Frontend_Mentor-victoire20-blue?style=for-the-badge&logo=frontendmentor&logoColor=white" height="25" />
   </a>
-  <a href="https://exercism.org/profiles/victoire20">
+  <a target="_blank" href="https://exercism.org/profiles/victoire20">
     <img src="https://img.shields.io/badge/Exercism-victoire20-purple?style=for-the-badge&logo=exercism&logoColor=white" height="25" />
   </a>
 </div>
