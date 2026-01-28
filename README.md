@@ -5,21 +5,21 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" style="animation: pulse 2s infinite;" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" style="animation: pulse 2s infinite;" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" style="animation: pulse 2s infinite;" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
