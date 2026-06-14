@@ -9,6 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" style="animation: pulse 2s infinite;" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" style="animation: pulse 2s infinite;" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" style="animation: pulse 2s infinite;" />
